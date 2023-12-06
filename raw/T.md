@@ -9,3 +9,9 @@
     - Chrome Developer Tools - інструменти розробника Chrome (калька? - https://support.google.com/adsense/answer/10858959?hl=uk)
     - React Developer Tools - TODO
   - development tools - інструменти розробки, інструменти для розробки
+
+#### type
+тип
+  - type safety - ???
+  - type system - система типізації
+  - typing - типізація

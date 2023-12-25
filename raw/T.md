@@ -15,9 +15,10 @@
   - dependency tree - дерево залежностей
   - module dependency tree - дерево залежностей модуля/модулів
   - tree structure - деревоподібна структура; структура даних "дерево"
+  - (propagate) up the tree - (поширюватися) деревом
 
 #### type
-тип
+1. тип 2. друк; друкувати
   - type safety - ???
   - type system - система типізації
-  - typing - типізація
+  - typing - 1. типізація 2. друк

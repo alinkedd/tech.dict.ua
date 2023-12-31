@@ -1,8 +1,8 @@
 # E
 
-#### extension
-розширення
-  - browser extension - розширення браузера
+#### effect
+???
+  - side effect - побічний ефект (?)
 
 #### event
 подія
@@ -12,3 +12,7 @@
   - event handler - обробник події
   - event listener - (???) обробник події; слухач події (якщо додає обробника події)
   - [event propagation](./P.md#propagation)
+
+#### extension
+розширення
+  - browser extension - розширення браузера

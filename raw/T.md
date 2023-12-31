@@ -5,10 +5,12 @@
 
 #### tool
 інструмент
+  - build tools - інструменти (для) збирання (коду)
   - developer tools - інструменти (для) розробки/розробника
     - Chrome Developer Tools - інструменти розробки/розробника Chrome (калька? - https://support.google.com/adsense/answer/10858959?hl=uk)
     - React Developer Tools - інструменти розробки/розробника React
   - development tools - інструменти (для) розробки
+  - testing tools - інструменти (для) тестування (коду)
 
 #### tree
 дерево

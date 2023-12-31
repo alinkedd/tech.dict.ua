@@ -1,5 +1,9 @@
 # S
 
+#### server
+сервер
+  - on the server - з боку сервера
+
 #### shape
 форма
   - take shape - формуватися

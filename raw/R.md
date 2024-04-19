@@ -7,6 +7,9 @@
 #### reload
 перезавантажити/перезавантажувати
 
+#### repository, repo
+сховище, репозиторій
+
 #### root
 корінь
   - [root component](./C.md#component)

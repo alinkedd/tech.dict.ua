@@ -3,6 +3,11 @@
 #### package
 пакет, пакунок (?)
 
+#### part-time
+неповний робочий час/день; неповний, частковий
+  - on part-time basis - за сумісництвом
+  - [full-time](./F.md#full-time)
+
 #### performance
 продуктивність, потужність
 
@@ -14,6 +19,10 @@
   - production-grade - ??? готовий для впровадження
   - production level - ???
   - production mode - ???
+  
+#### progress
+???
+  - in progress - (що) триває; у процесі; незавершений
 
 #### propagation
 поширення

@@ -5,6 +5,7 @@
   - data flow - потік даних (плин даних?) (рух даних?) (проходження даних?)
   - data stream - потік даних
   - [data structure](./S.md#structure)
+  - input data - вхідні дані
 
 #### debug
 налагодити/налагоджувати

@@ -8,6 +8,9 @@
 #### fallback
 ???
 
+#### fix
+1. виправити 2. (за)кріпити, (за)фіксувати
+
 #### flavor (flavour)
 різновид
   - JavaScript flavours - різновиди JavaScript; надбудови до JavaScript

@@ -1,5 +1,15 @@
 # B
 
+#### binary
+двійковий; подвійний, двоїстий; бінарний
+  - [binary heap](./H.md#heap)
+  - [binary search](./S.md#search)
+  - [binary search tree](./T.md#tree)
+
+#### bitwise
+бітовий
+  - [bitwise operation](./O.md#operation)
+
 #### box
   - out-of-the-box - без додаткових налаштувань
 

@@ -11,6 +11,9 @@
   - depth-first search, DFS - пошук углиб, пошук у глибину
   - [search tree](./T.md#tree)
 
+#### selector
+1. _СSS_ селектор
+
 #### server
 сервер
   - on the server - з боку сервера
@@ -21,7 +24,7 @@
 
 #### shop
 ???
-  - _UI/UX element_ shopping cart - кошик
+  - _елемент UI/UX_ shopping cart - кошик
 
 #### shortcut
 ???

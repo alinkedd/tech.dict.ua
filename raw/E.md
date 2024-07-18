@@ -1,5 +1,10 @@
 # E
 
+#### edge
+???
+  - bleeding-edge - передовий; найновіший; найсвіжіший ???
+  - cutting-edge - ???
+
 #### effect
 ???
   - side effect - побічний ефект (?)

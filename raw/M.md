@@ -10,7 +10,7 @@
 
 #### memory
 пам'ять
-  - [memory management](./M.md#memory)
+  - [memory management](./M.md#management)
 
 #### mobile
 мобільний; рухомий

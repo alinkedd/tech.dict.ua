@@ -22,3 +22,7 @@ Preliminary raw data:
 - [U](raw/U.md)
 - [V](raw/V.md)
 - [W](raw/W.md)
+
+## License
+
+Material is licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

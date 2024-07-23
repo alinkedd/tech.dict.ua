@@ -13,6 +13,9 @@
 #### box
   - out-of-the-box - без додаткових налаштувань
 
+#### brightness
+яскравість
+
 #### browser
 браузер/бравзер, (веб)переглядач
   - [browser extension](E.md#extension)

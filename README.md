@@ -25,4 +25,4 @@ Preliminary raw data:
 
 ## License
 
-Material is licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Material is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).

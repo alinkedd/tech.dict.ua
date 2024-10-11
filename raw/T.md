@@ -9,6 +9,7 @@
 
 #### technology
 технологія; техніка
+  - assistive technology - допоміжні технології
 
 #### terminal
 термінал

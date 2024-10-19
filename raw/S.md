@@ -36,6 +36,24 @@
 ???
   - keyboard shortcut - сполучення/комбінація клавіш
 
+#### sign
+1. знак 2. символ 3. ознака, симптом 4. підписувати
+  - [sign language](./L#language)
+  - to sign in - увійти
+  - to sign up - зареєструватися
+  also:
+  - [signature](./S.md#signature)
+  synonyms:
+  - [badge](./B.md#badge)
+  - [label](./L.md#label)
+  - [mark](./M.md#mark)
+
+#### signature
+1. підпис 2. сигнатура 3. автограф
+  - electronic signature, e-signature - електронний цифровий підпис, ЕЦП
+  - type signature - сигнатура (типів)
+  - method signature - сигнатура методу
+
 #### skeleton
 каркас, кістяк; скелет
 

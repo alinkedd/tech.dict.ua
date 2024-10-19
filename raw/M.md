@@ -1,5 +1,15 @@
 # M
 
+#### mark
+1. позначка, знак; оцінка 2. позначати
+  - to mark - 1. позначити 2. на честь, на згадку
+  also:
+  - [landmark](./L.md#landmark)
+  synonyms:
+  - [badge](./B.md#badge)
+  - [label](./L.md#label)
+  - [sign](./S.md#sign)
+
 #### management
 керування, управління; менеджмент
   - memory management - керування/управління пам'яттю
@@ -11,6 +21,13 @@
 #### memory
 пам'ять
   - [memory management](./M.md#management)
+
+#### menu
+меню
+  - context menu - _елемент UI/UX_ контекстне меню
+  - drop-down menu, drop menu - _елемент UI/UX_ випадне меню
+    alias:
+    - [drop-down list, DDL, pull-down list](./L.md#list)
 
 #### mobile
 мобільний; рухомий

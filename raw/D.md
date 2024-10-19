@@ -26,6 +26,10 @@
 розробник
   - [developer tools](T.md#tool)
 
-### disabled
+#### disabled
 неактивний; вимкнений; без змоги/можливості (чогось/робити щось) (?)
   - disabled button - неактивна кнопка
+  
+#### drop-down, dropdown
+випадний (елемент)
+  - [drop-down list](./L.md#list), [drop-down menu](./M.md#menu)

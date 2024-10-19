@@ -45,6 +45,7 @@
 
 #### type
 1. тип 2. друк; друкувати
-  - type safety - ???
+  - type safety - типобезпечність
   - type system - система типізації
+  - [type signature](./S.md#signature)
   - typing - 1. типізація 2. друк

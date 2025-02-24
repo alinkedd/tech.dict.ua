@@ -52,7 +52,14 @@
   - provider-consumer - ???
 
 #### content
-вміст, наповнення, контент, зміст
+1. вміст, наповнення, контент, зміст 2. задоволений, вдоволений
+  also:
+  - [contentful](./C.md#contentful)
+
+#### contentful
+змістовий, із вмістом, (*щось*) вмісту
+  - [first contentful paint, FCP](./P.md#paint)
+  - [largest contentful paint, LCP](./P.md#paint) 
 
 #### crash
 1. аварія; крах; руйнація; падіння 2. зазнавати краху; давати збій; (роз)трощити; потрапити в аварію

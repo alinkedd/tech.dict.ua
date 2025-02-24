@@ -3,6 +3,20 @@
 #### package
 пакет, пакунок (?)
 
+#### paint
+1. малювати; фарбувати, покривати фарбою; 2. зображати 3. малювання, живопис 4. фарба 5. _застосунок_ Paint
+  - first paint, FP (!функційне програмування) - перший рендеринг/малювання
+  - first contentful paint, FCP - рендеринг/малювання першого вмісту
+  - first meaningful paint, FMP - перший значущий рендеринг/малювання
+  - largest contentful paint, LCP - рендеринг/малювання найбільшого вмісту
+  - interaction to next paint, INP - "від взаємодії до наступного рендерингу/малювання"
+    also:
+    - [first input delay](./D.md#delay)
+
+#### parameter
+параметр
+  - query parameter - параметр запиту
+
 #### part-time
 неповний робочий час/день; неповний, частковий
   - on part-time basis - за сумісництвом

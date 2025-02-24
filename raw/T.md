@@ -23,6 +23,9 @@
   - development tools - інструменти (для) розробки
   - testing tools - інструменти (для) тестування (коду)
 
+#### trade-off
+компроміс; в обмін
+
 #### traversal
 обхід
   - tree traversal - обхід дерева

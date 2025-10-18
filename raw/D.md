@@ -18,12 +18,20 @@
 
 #### defer
 відкласти/відкладати
+  also:
+  - [delay](./D.md#delay)
+  - [deter](./D.md#deter)
+  - [suspend](./S.md#suspend)
 
 #### delay
 1. затримка 2. затримувати
   - first input delay, FID - затримка (після) першого введення
     also:
     - [interaction to next paint](./P.md#paint)
+    also:
+    - [defer](./D.md#defer)
+    - [deter](./D.md#deter)
+    - [suspend](./S.md#suspend)
 
 #### delimit
 відмежовувати, розмежовувати; розділяти
@@ -39,6 +47,13 @@
 #### developer
 розробник
   - [developer tools](T.md#tool)
+
+#### deter
+стримувати
+  also:
+  - [defer](./D.md#defer)
+  - [delay](./D.md#delay)
+  - [suspend](./S.md#suspend)
 
 #### disabled
 неактивний; вимкнений; без змоги/можливості (чогось/робити щось) (?)

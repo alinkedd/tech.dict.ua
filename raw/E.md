@@ -8,6 +8,10 @@
 #### effect
 ???
   - side effect - побічний ефект (?)
+  
+#### error
+помилка
+ - to throw an error - кинути помилку
 
 #### event
 подія

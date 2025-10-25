@@ -102,3 +102,6 @@ _структура даних_ стек
   - [defer](./D.md#defer)
   - [delay](./D.md#delay)
   - [deter](./D.md#deter)
+
+#### switch
+1. перемикатися 2. перемикач
